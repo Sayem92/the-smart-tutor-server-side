@@ -2,37 +2,45 @@
     {
         "id": 1,
         "title": "YouTube Vlogging Tutorials",
-        "description": "You can start a YouTube vlog right from your phone. Sign in to YouTube through a Gmail account, then create a channel. Film your video content and edit it together (with Vimeo, of course). Next, craft your description and tags then you're ready to post.Vlogging Tips For Beginners, follow the the steps => Planning Ahead. As with most things => planning ahead is key to creating great vlogs => Understand Your Audience & Find Your Niche =>  Upload Consistently => Tell A Story =>  Grab Attention Quickly => Watch Your Eyeline => Video Titles & Thumbnails => Follow Trends & Be Aware Of What's Going On.",
+        "description": "You can start a YouTube vlog right from your phone. Sign in to YouTube through a Gmail account, then create a channel. Film your video content and edit it together (with Vimeo, of course). Next, craft your description and tags then you're ready to post.Vlogging Tips For Beginners, follow the the steps =>",
+        "tips":[
+            "Planning Ahead","As with most things","planning ahead is key to creating great vlogs","Understand Your Audience & Find Your Niche","Upload Consistently","Tell A Story"," Grab Attention Quickly"," Watch Your Eyeline"," Video Titles & Thumbnails","Follow Trends & Be Aware Of What's Going On"
+        ],
         "image": "https://i.ibb.co/m8D41Zc/download.jpg"
     },
     {
         "id": 2,
         "title": "Digital Marketing Tutorials",
-        "description": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel. 5 Proven Ways to Teach Yourself Online Marketing. Take every class you can get your hands on . Teach yourself online marketing through books. Seek mentors to help you. Practice what you're learning. Never stop learning.",
+        "description": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel. 5 Proven Ways to Teach Yourself Online Marketing follow this.",
+        "tips":["Take every class you can get your hands on ","Teach yourself online marketing through books","Seek mentors to help you","Practice what you're learning","Never stop learning"],
         "image": "https://i.ibb.co/WW7srQW/digital-marketing2.png"
     },
     {
         "id": 3,
         "title": "Gaming Tutorials",
-        "description": "A tutorial is a section of a game that teaches players how to play the game. Often there will be a general tutorial in the beginning of a game, and later tutorials in the game that cover more advanced sections of game play. Most tutorials teach the players the basic controls of a game, and not much else. 4 ways students can better manage gaming time. 1: Complete Your Work First Research has shown that student gamers spend 30% less time reading and 34% less time on their homework. 2: Set a Time Limit. 3: Spend Too Much Time Alone in Your Room Gaming. 4: Get Exercise.",
+        "description": "A tutorial is a section of a game that teaches players how to play the game. Often there will be a general tutorial in the beginning of a game, and later tutorials in the game that cover more advanced sections of game play. Most tutorials teach the players the basic controls of a game, and not much else. 4 ways students can better manage gaming time.",
+        "tips":["Complete Your Work First Research has shown that student gamers spend 30% less time reading and 34% less time on their homework","Set a Time Limit","Spend Too Much Time Alone in Your Room Gaming","Get Exercise"],
         "image": "https://i.ibb.co/w6xsJwg/download-1.jpg"
     },
     {
         "id": 4,
         "title": "Fitness and Health Tutorials",
-        "description": "Online health and fitness courses help you learn about the ways in which the human body responds to exercise and food. Research has shown that it's important to get all four types of exercise: endurance, strength, balance, and flexibility. Each one has different benefits. Doing one kind also can improve your ability to do the others, and variety helps reduce boredom and risk of injury.Many type of fitness exercise are cardiovascular/respiratory endurance, stamina, strength, flexibility, power, coordination, agility, balance, and accuracy. You are as fit as you are competent in each of these 10 skills, and a regimen develops fitness to the extent that it improves each of these 10 skills.",
+        "description": "Online health and fitness courses help you learn about the ways in which the human body responds to exercise and food. Research has shown that it's important to get all four types of exercise: endurance, strength, balance, and flexibility. Each one has different benefits. Doing one kind also can improve your ability to do the others, and variety helps reduce boredom and risk of injury.Many type of fitness exercise are cardiovascular/respiratory endurance, stamina, strength, flexibility, power, coordination, agility, balance, and accuracy. You are as fit as you are competent in each of these 10 skills, and a regimen develops fitness to the extent that it improves each of these 10 skills. 7 Types of Physical Fitness bellow",
+        "tips":["Cardiorespiratory Endurance. Cardiorespiratory endurance, also known as cardio, is the ability of the body to supply oxygen and energy for an extended period of physical activity","Muscular Endurance","Muscular Strength","Flexibility","Body Composition","Speed","Physical Intelligence"],
         "image": "https://i.ibb.co/y5ZjrBq/istockphoto-696916974-1024x1024.jpg"
     },
     {
         "id": 5,
         "title": "Cooking Tutorials",
-        "description": "First time cooking you follow the steps. Grilled cheese sandwich with a fried egg. Pizza .Risotto.Roast chicken. Spaghetti carbonara. Apple pie. Whole roasted fish. Cream-based soup. 9 Tips For Learning How To Cook Once & For All Cook All The Time. 1. Don't Try Too Hard Your First, 2.Time, 3.Make Something Delicious, 4.Don't Be Afraid To, 5.Experiment, 6.Cook Your Way Through A Cookbook, 7.Read The Recipe First, 8.Lay Out All Your Ingredients, 9.Buy Some Actual Kitchen Tools.",
+        "description": "First time cooking you follow the steps. Grilled cheese sandwich with a fried egg. Pizza .Risotto.Roast chicken. Spaghetti carbonara. Apple pie. Whole roasted fish. Cream-based soup. 9 Tips For Learning How To Cook Once & For All Cook All The Time.",
+        "tips":["Don't Try Too Hard Your First","Time","Make Something Delicious","Don't Be Afraid To","Experiment","Cook Your Way Through A Cookbook","Read The Recipe First","Lay Out All Your Ingredients","Buy Some Actual Kitchen Tools"],
         "image": "https://i.ibb.co/StRyLBW/images.jpg"
     },
     {
         "id": 6,
         "title": "Beauty and Fashion Tutorials",
-        "description": "Fashion and beauty are often touted to be synonymous with women but men are equally interested in these. Lately, it is found that men also follow the style and like to live a fashionable life. Beauty for them is personal grooming that enhances their overall persona.Some steps to follow for makeup. Start with a clean, exfoliated and moisturized. Apply a full coverage foundation all over face,  Apply a contour to face to prevent you from. Blend the contour with a damp blending sponge. Color in the eyebrows if they are light or if.  Apply a light color shadow to the crease of the.",
+        "description": "Fashion and beauty are often touted to be synonymous with women but men are equally interested in these. Lately, it is found that men also follow the style and like to live a fashionable life. Beauty for them is personal grooming that enhances their overall persona.Some steps to follow for makeup.",
+        "tips":["Start with a clean","exfoliated and moisturized","Apply a full coverage foundation all over face"," Apply a contour to face to prevent you from","Blend the contour with a damp blending sponge","Color in the eyebrows if they are light or if"," Apply a light color shadow to the crease of the"],
         "image": "https://i.ibb.co/0Z2FkY7/download-2.jpg"
     }
 ]
