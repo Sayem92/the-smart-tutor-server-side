@@ -21,6 +21,12 @@ app.get('/tutorials/:id', (req, res) =>{
     res.send(tutorial)
 })
 
+app.get('/tutorials/detailsPage/:id', (req, res) =>{
+    const id= req.params.id;
+    const single = tutorials.find(tutor => tutor.id == id)
+    res.send(single)
+})
+
 
 
 app.listen(port, ()=>{
