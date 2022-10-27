@@ -15,7 +15,11 @@ app.get('/tutorials', (req, res) =>{
     res.send(tutorials)
 })
 
-
+app.get('/category/:name', (req, res) =>{
+    const name= req.params.name;
+    const allCategory = tutorials.filter(tutor => tutor.category == name)
+    res.send(allCategory)
+})
 
 app.get('/tutorials/:id', (req, res) =>{
     const id= req.params.id;
