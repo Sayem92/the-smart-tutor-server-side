@@ -2,6 +2,7 @@
     {
         "id": 1,
         "title": "YouTube Vlogging Tutorials",
+        "category":"Vlogging Tutorials",
         "description": "You can start a YouTube vlog right from your phone. Sign in to YouTube through a Gmail account, then create a channel. Film your video content and edit it together (with Vimeo, of course). Next, craft your description and tags then you're ready to post.Vlogging Tips For Beginners, follow the the steps =>",
         "tips":[
             "Planning Ahead","As with most things","planning ahead is key to creating great vlogs","Understand Your Audience & Find Your Niche","Upload Consistently","Tell A Story"," Grab Attention Quickly"," Watch Your Eyeline"," Video Titles & Thumbnails","Follow Trends & Be Aware Of What's Going On"
@@ -10,37 +11,92 @@
     },
     {
         "id": 2,
-        "title": "Digital Marketing Tutorials",
-        "description": "Digital marketing, also called online marketing, is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages as a marketing channel. 5 Proven Ways to Teach Yourself Online Marketing follow this.",
-        "tips":["Take every class you can get your hands on ","Teach yourself online marketing through books","Seek mentors to help you","Practice what you're learning","Never stop learning"],
-        "image": "https://i.ibb.co/WW7srQW/digital-marketing2.png"
+        "title": "Travel Vlogging Tutorials",
+        "category":"Vlogging Tutorials",
+        "description": "Travel vloggers are the travelers who share their travelling experiences through a video for their viewers. It's a content similar to travel blog but in a visual presentation. Travel vlogger is a relevantly new phenomenon that showed up around 2016. They appeared as travelers who shares their journeys in a video clip.Travel Vlogging Tips For Beginners, follow the the steps =>",
+        "tips":[
+            "Choose your niche. Although millions of people travel the world and share their impressions, only a few of them become famous","Set up your channel.","Get the right vlogging equipment","Start filming","Learn video editing","Upload your video to your YouTube channel"," Promote your video content"
+        ],
+        "image": "https://i.ibb.co/Qn6hJSB/Unknown.jpg"
     },
     {
         "id": 3,
-        "title": "Gaming Tutorials",
-        "description": "A tutorial is a section of a game that teaches players how to play the game. Often there will be a general tutorial in the beginning of a game, and later tutorials in the game that cover more advanced sections of game play. Most tutorials teach the players the basic controls of a game, and not much else. 4 ways students can better manage gaming time.",
-        "tips":["Complete Your Work First Research has shown that student gamers spend 30% less time reading and 34% less time on their homework","Set a Time Limit","Spend Too Much Time Alone in Your Room Gaming","Get Exercise"],
-        "image": "https://i.ibb.co/w6xsJwg/download-1.jpg"
+        "title": "Social media Marketing",
+        "category":"Digital Marketing Tutorials",
+        "description": "Social media marketing (SMM) is a form of internet marketing that uses social media apps as a marketing tool. The Top 10 Social Media Sites And Platforms.",
+        "tips":["Facebook. Screenshot by author, May 2022 ","YouTube. Screenshot by author, May 2022","WhatsApp",   "Instagram", "TikTok", "Snapchat", "Reddit", " Pinterest"],
+        "image": "https://i.ibb.co/bmnvX81/social-media-marketing-fundamentals-wordstream.png" 
     },
     {
         "id": 4,
+        "title": "Mobile Marketing Tutorials",
+        "category":"Digital Marketing Tutorials",
+        "description": "Mobile marketing is a multi-channel online marketing technique focused at reaching a specific audience on their smartphones, feature phones, tablets, or any other related devices through websites, e-mail, SMS and MMS, social media, or mobile applications. 10 mobile marketing strategies for small businesses that actually drive traffic",
+        "tips":["Location-based marketing", "Responsive site design","Social media advertisements", "Mobile-friendly content", " Voice search optimization","Text message marketing", " Videos and GIFs", "On-site and in-app suppor"],
+        "image": "https://i.ibb.co/F8Wynt1/download-3.jpg"
+    },
+    {
+        "id": 5,
+        "title": "A strategy game",
+        "category":"Gaming Tutorials",
+        "description": "A strategy game or strategic game is a game (e.g. a board game) in which the players' uncoerced, and often autonomous, decision-making skills have a high significance in determining the outcome. Almost all strategy games require internal decision tree-style thinking, and typically very high situational awareness. Here are 12 tips that will help you build better tutorials.",
+        "tips":["Make It Feel like a Natural Part of the Game", "Spread It Out"," Make Players Act, Not Read", " Don't Use Too Many Words", "Don't Think of Your Players as Fools", "Leverage the “How”, but Also the “Why”","Don't Pollute the Tutorial", "Introduce Players to Your In-Game Economy"],
+        "image": "https://i.ibb.co/n61PhxR/1200px-Chess-set.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Fantasy gamer",
+        "category":"Gaming Tutorials",
+        "description": "A game in which players assume the roles of characters and act out fantastical adventures, the outcomes of which are partially determined by chance, as by the roll of dice.The best fantasy games on PC in 2022",
+        "tips":["Elden Ring","King of Avalon","Guild Wars 2","Game of Thrones: Winter is Coming", "Neverwinter", "Genshin Impact", "Wizard101","The Witcher III: Wild Hunt"],
+        "image": "https://i.ibb.co/qFVZbcp/best-fantasy-games-guild-wars-2.webp"
+    },
+    {
+        "id": 7,
         "title": "Fitness and Health Tutorials",
+        "category":"Exercise Tutorials",
         "description": "Online health and fitness courses help you learn about the ways in which the human body responds to exercise and food. Research has shown that it's important to get all four types of exercise: endurance, strength, balance, and flexibility. Each one has different benefits. Doing one kind also can improve your ability to do the others, and variety helps reduce boredom and risk of injury.Many type of fitness exercise are cardiovascular/respiratory endurance, stamina, strength, flexibility, power, coordination, agility, balance, and accuracy. You are as fit as you are competent in each of these 10 skills, and a regimen develops fitness to the extent that it improves each of these 10 skills. 7 Types of Physical Fitness bellow",
         "tips":["Cardiorespiratory Endurance. Cardiorespiratory endurance, also known as cardio, is the ability of the body to supply oxygen and energy for an extended period of physical activity","Muscular Endurance","Muscular Strength","Flexibility","Body Composition","Speed","Physical Intelligence"],
         "image": "https://i.ibb.co/y5ZjrBq/istockphoto-696916974-1024x1024.jpg"
     },
     {
-        "id": 5,
-        "title": "Cooking Tutorials",
-        "description": "First time cooking you follow the steps. Grilled cheese sandwich with a fried egg. Pizza .Risotto.Roast chicken. Spaghetti carbonara. Apple pie. Whole roasted fish. Cream-based soup. 9 Tips For Learning How To Cook Once & For All Cook All The Time.",
-        "tips":["Don't Try Too Hard Your First","Time","Make Something Delicious","Don't Be Afraid To","Experiment","Cook Your Way Through A Cookbook","Read The Recipe First","Lay Out All Your Ingredients","Buy Some Actual Kitchen Tools"],
-        "image": "https://i.ibb.co/StRyLBW/images.jpg"
+        "id": 8,
+        "title": "Dumbbell Exercise Tutorials",
+        "category":"Exercise Tutorials",
+        "description": "Dumbbells are often used for joint-isolation exercises such as biceps curls, chest flyes or shoulder raises. Using dumbbells for full-body, multiplanar movements, however, can provide a variety of different strength outcomes. It also offers many benefits for cardiorespiratory fitness and flexibility. 10 best dumbbell exercises for a full-body workout",
+        "tips":["Squat with punches. Hold a dumbbell in each hand", "one in front of each shoulder","Standing overhead reach with side taps", "Russian twist", " Overhead press", "Tricep kickback", " Marching in place with bicep curls", " Bent over row", " Backward lunge"],
+        "image": "https://i.ibb.co/DMjHHkg/Best-Dumbbell-Exercises-For-Men.webp"
     },
     {
-        "id": 6,
-        "title": "Beauty and Fashion Tutorials",
-        "description": "Fashion and beauty are often touted to be synonymous with women but men are equally interested in these. Lately, it is found that men also follow the style and like to live a fashionable life. Beauty for them is personal grooming that enhances their overall persona.Some steps to follow for makeup.",
+        "id": 9,
+        "title": "Fish Cooking Tutorials",
+        "category":"Cooking Tutorials",
+        "description": "If cooking fillets, drizzle the fish, front and back, with oil, then add the spices of choice. Cook in a frying pan, oven, or grill over medium heat until hot and flakey—and the skin is brown and crispy, if left on. Cook fish steaks similarly using oil to keep the meat from sticking to the pan or grill. 9 Tips For Learning How To Cook Once & For All Cook All The Time.",
+        "tips":["Don't Try Too Hard Your First","Time","Make Something Delicious","Don't Be Afraid To","Experiment","Cook Your Way Through A Cookbook","Read The Recipe First","Lay Out All Your Ingredients","Buy Some Actual Kitchen Tools"],
+        "image": "https://i.ibb.co/wgPrs0W/download-4.jpg" 
+    },
+    {
+        "id": 10,
+        "title": "Meat Cooking Tutorials",
+        "category":"Cooking Tutorials",
+        "description": "Methods of Cooking Meat. Methods of cooking meat include dry heat (roasting, broiling, pan-broiling, pan- frying, stir-frying and outdoor grilling) or moist heat (braising and cooking in liquid). 5 Best Tips for Learning How to Cook Meat",
+        "tips":["Buy a good meat thermometer","Learn safe food-handling habits", " Start with beginner-friendly techniques", "Then learn how to roast a chicken","Practice, practice, practice"],
+        "image": "https://i.ibb.co/2NGPhVp/5abbb05b32167422008b45df.webp" 
+    },
+    {
+        "id": 11,
+        "title": "Makeup Tutorials",
+        "category":"Beauty and Fashion Tutorials",
+        "description": "Cosmetics designed to enhance or alter one's appearance (makeup) can be used to conceal blemishes, enhance one's natural features (such as the eyebrows and eyelashes), add color to a person's face, or change the appearance of the face entirely to resemble a different person, creature or object.. Beauty for them is personal grooming that enhances their overall persona.Some steps to follow for makeup.",
         "tips":["Start with a clean","exfoliated and moisturized","Apply a full coverage foundation all over face"," Apply a contour to face to prevent you from","Blend the contour with a damp blending sponge","Color in the eyebrows if they are light or if"," Apply a light color shadow to the crease of the"],
         "image": "https://i.ibb.co/0Z2FkY7/download-2.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Face Wash Tutorials",
+        "category":"Beauty and Fashion Tutorials",
+        "description": "Face washes are designed to remove impurities, germs, dirt and makeup that can irritate the skin. Here's the tough part: when skin is cleansed too frequently, in contact with water or subject to harsh soaps, your skin's natural moisture is stripped—leaving it vulnerable to dryness and irritation. Some face wash is best for beginners",
+        "tips":["Cetaphil Gentle Skin Cleanser","La Roche-Posay Toleriane Hydrating Gentle Cleanser", " Neutrogena Oil-Free Acne-Fighting Facial Cleanser With ","Salicylic Acid", " Youth to the People Superfood Antioxidant Cleanser","iS Clinical Cleansing Complex","Fresh Soy Face Cleanser", "Aveeno Calm + Restore Nourishing Oat Cleanser"],
+        "image": "https://i.ibb.co/dt8DLkp/download-5.jpg" 
     }
 ]
