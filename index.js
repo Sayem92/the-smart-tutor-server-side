@@ -5,20 +5,25 @@ app.use(cors())
 
 const port = process.env.PORT || 5000;
  
-const tutorials = require('./data/courses.json')
+const tutorials = require('./data/courses.json');
+const categories = require('./data/category.json');
+
 
 app.get('/', (req, res) =>{
     res.send('The Smart Tutor server is running now')
 })
 
+
 app.get('/tutorials', (req, res) =>{
     res.send(tutorials)
 })
 
-app.get('/category/:name', (req, res) =>{
-    const name= req.params.name;
-    const allCategory = tutorials.filter(tutor => tutor.category == name)
-    res.send(allCategory)
+app.get('/category/all', (req, res) =>{
+    res.send(tutorials)
+})
+
+app.get('/category/name', (req, res) =>{
+    res.send(categories)
 })
 
 app.get('/tutorials/:id', (req, res) =>{

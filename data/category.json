@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "category":"Vlogging Tutorials"
+    },
+    {
+        "id": 2,
+        "category":"Digital Marketing Tutorials"
+    },
+    {
+        "id": 3,
+        "category":"Gaming Tutorials"
+    },
+    {
+        "id": 4,
+        "category":"Exercise Tutorials"
+    },
+    {
+        "id": 5,
+        "category":"Cooking Tutorials"
+    },
+    {
+        "id": 6,
+        "category":"Beauty and Fashion Tutorials"
+    }
+]
